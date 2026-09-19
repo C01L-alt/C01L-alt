@@ -4,7 +4,7 @@ Coil
 Begginer developer
 ------------------
 
-All my projects are privately owned.
+### All my projects are privately owned.
 
 Skills
 <p align="left">
