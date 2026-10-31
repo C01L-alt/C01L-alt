@@ -31,7 +31,7 @@ I'm currently on a journey to deepen my Python knowledge and build robust, well-
 
 *   This is my personal code vault. All projects are **private** by default.
 *   I write scripts for self-education and automation.
-*   Currently focusing on **OOP** and **Decorators**
+*   Currently focusing on **OOP**, **Decorators** and **common Python syntax**
 
 ---
 
