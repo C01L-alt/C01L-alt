@@ -38,3 +38,6 @@ I'm currently on a journey to deepen my Python knowledge and build robust, well-
 ### 📫 Connect
 
 *   **discord:** coilz
+
+btw I often commit to my projects and as you can see my contribution graph can look very green
+(but I also make real updates)
